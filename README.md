@@ -1,3 +1,6 @@
+This project is to get the raw data from a zipped file and group them into the cooresponding categories.
+
+Then to clean the datasets so that it can be further explored.
 
 In this chunk, first I copy the website link, download and unzip the file
 ```{r echo=FALSE}
